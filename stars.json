@@ -1,45 +1,45 @@
 [
   {
     "full_name": "mdn/translated-content",
-    "stargazers_count": 684,
-    "open_issues_count": 313,
-    "forks_count": 2798
+    "stargazers_count": 690,
+    "open_issues_count": 333,
+    "forks_count": 2835
   },
   {
     "full_name": "apollographql/apollo-client",
-    "stargazers_count": 17516,
-    "open_issues_count": 655,
-    "forks_count": 2370
+    "stargazers_count": 17529,
+    "open_issues_count": 663,
+    "forks_count": 2373
   },
   {
     "full_name": "basarat/typescript-book",
-    "stargazers_count": 17017,
+    "stargazers_count": 17035,
     "open_issues_count": 145,
-    "forks_count": 2160
+    "forks_count": 2163
   },
   {
     "full_name": "nodejs/node",
-    "stargazers_count": 86779,
-    "open_issues_count": 1621,
-    "forks_count": 23277
+    "stargazers_count": 86863,
+    "open_issues_count": 1622,
+    "forks_count": 23291
   },
   {
     "full_name": "facebook/jest",
-    "stargazers_count": 38579,
-    "open_issues_count": 1090,
-    "forks_count": 5766
+    "stargazers_count": 38591,
+    "open_issues_count": 1088,
+    "forks_count": 5771
   },
   {
     "full_name": "simple-icons/simple-icons",
-    "stargazers_count": 13042,
-    "open_issues_count": 617,
-    "forks_count": 1831
+    "stargazers_count": 13048,
+    "open_issues_count": 620,
+    "forks_count": 1834
   },
   {
     "full_name": "ikatyang/emoji-cheat-sheet",
-    "stargazers_count": 6912,
+    "stargazers_count": 6947,
     "open_issues_count": 37,
-    "forks_count": 2999
+    "forks_count": 3003
   },
   {
     "full_name": "maxgallo/talk-micro-frontends-migration",
@@ -49,21 +49,21 @@
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 189085,
+    "stargazers_count": 189385,
     "open_issues_count": 1,
-    "forks_count": 21803
+    "forks_count": 21852
   },
   {
     "full_name": "nighto/brasil-portugal",
-    "stargazers_count": 574,
+    "stargazers_count": 577,
     "open_issues_count": 10,
-    "forks_count": 65
+    "forks_count": 64
   },
   {
     "full_name": "BretFisher/node-docker-good-defaults",
-    "stargazers_count": 2030,
+    "stargazers_count": 2032,
     "open_issues_count": 13,
-    "forks_count": 435
+    "forks_count": 434
   },
   {
     "full_name": "Badmuts/aula",
@@ -79,51 +79,51 @@
   },
   {
     "full_name": "reach/reach-ui",
-    "stargazers_count": 5172,
+    "stargazers_count": 5177,
     "open_issues_count": 92,
-    "forks_count": 509
+    "forks_count": 510
   },
   {
     "full_name": "mcollina/autocannon",
-    "stargazers_count": 5863,
+    "stargazers_count": 5867,
     "open_issues_count": 31,
-    "forks_count": 294
+    "forks_count": 296
   },
   {
     "full_name": "okonet/lint-staged",
-    "stargazers_count": 10091,
-    "open_issues_count": 128,
-    "forks_count": 373
+    "stargazers_count": 10103,
+    "open_issues_count": 131,
+    "forks_count": 374
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 85165,
-    "open_issues_count": 1206,
-    "forks_count": 17844
+    "stargazers_count": 85300,
+    "open_issues_count": 1201,
+    "forks_count": 17893
   },
   {
     "full_name": "browserslist/browserslist",
-    "stargazers_count": 10486,
+    "stargazers_count": 10495,
     "open_issues_count": 37,
-    "forks_count": 600
+    "forks_count": 601
   },
   {
     "full_name": "zloirock/core-js",
-    "stargazers_count": 16532,
-    "open_issues_count": 22,
-    "forks_count": 1256
+    "stargazers_count": 16552,
+    "open_issues_count": 21,
+    "forks_count": 1257
   },
   {
     "full_name": "sapegin/jest-cheat-sheet",
-    "stargazers_count": 4474,
+    "stargazers_count": 4476,
     "open_issues_count": 0,
     "forks_count": 567
   },
   {
     "full_name": "h5bp/Front-end-Developer-Interview-Questions",
-    "stargazers_count": 52841,
+    "stargazers_count": 52870,
     "open_issues_count": 6,
-    "forks_count": 10341
+    "forks_count": 10350
   },
   {
     "full_name": "lordpoint/xorshift-sandbox-and-visualizer",
@@ -133,27 +133,27 @@
   },
   {
     "full_name": "eps1lon/dom-accessibility-api",
-    "stargazers_count": 54,
-    "open_issues_count": 10,
-    "forks_count": 14
+    "stargazers_count": 56,
+    "open_issues_count": 11,
+    "forks_count": 15
   },
   {
     "full_name": "testing-library/user-event",
-    "stargazers_count": 1594,
-    "open_issues_count": 21,
-    "forks_count": 183
+    "stargazers_count": 1599,
+    "open_issues_count": 26,
+    "forks_count": 184
   },
   {
     "full_name": "testing-library/jest-dom",
-    "stargazers_count": 3207,
+    "stargazers_count": 3212,
     "open_issues_count": 61,
-    "forks_count": 254
+    "forks_count": 253
   },
   {
     "full_name": "paypal/paypal-checkout-components",
-    "stargazers_count": 1049,
+    "stargazers_count": 1051,
     "open_issues_count": 30,
-    "forks_count": 512
+    "forks_count": 513
   },
   {
     "full_name": "thinhvo0108/react-paypal-express-checkout",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "Rigellute/spotify-tui",
-    "stargazers_count": 11970,
+    "stargazers_count": 11998,
     "open_issues_count": 203,
-    "forks_count": 398
+    "forks_count": 396
   }
 ]
